@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="IO\" />
+    <Folder Include="Motion\" />
+    <Folder Include="Interlocks\" />
+    <Folder Include="Alarms\" />
+    <Folder Include="Sequences\" />
+  </ItemGroup>
+
+</Project>
